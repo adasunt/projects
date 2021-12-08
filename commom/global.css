@@ -1,0 +1,41 @@
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+.fl{float: left;}
+.fr{float:right}
+.clear{clear: both;}
+.mt{margin-top: 15px;}
+.bt{margin-bottom: 15px;}
+.bigmt{margin-top: 30px;}
+.disflex{display: flex;}
+.h{height: 100%;}
+.w{width: 100%;}
+.el-table .warning-row {
+  background: rgb(252, 155, 125);
+}
+.page {
+  text-align: right;
+}
+.el-menu{
+  border: none;
+}
+.el-menu-item{
+
+  padding: 0;
+  width: 260px;
+
+}
+.el-table .success-row {
+  background: #d7d8f3;
+}
+.el-calendar-table .el-calendar-day{
+    height: 42px;
+  }
+  .el-divider{
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+
+
+
+
